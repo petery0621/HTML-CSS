@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-image: url("http://l2.yimg.com/bt/api/res/1.2/G699ac1JDzm_jQhl3SBNtQ--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9MzEwO2lsPXBsYW5lO3B5b2ZmPTA7cT03NTt3PTQ1MA--/http://media.zenfs.com/en_us/News/Reuters/2015-09-23T230833Z_1_LYNXNPEB8M19B_RTROPTP_2_USA-CHINA.JPG");
+    width:15px;
+    height:155px;
+    margin:auto; 
+
+}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+<p>This text is not easy to read on this background image.</p>
+
+</body>
+</html>
